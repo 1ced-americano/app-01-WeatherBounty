@@ -33,7 +33,7 @@ This project was developed to help you quickly access current weather data for y
 <br><br>
 
 Your feedback and contributions are always welcome! Enjoy the Weather Bounty experience! 🌈❄️
-Feel free to customize these descriptions to fit your own style and personality. Sharing your enthusiasm for the project is a great way to engage your network and potentially connect with others who share your interests. Good luck with your project! 🚀
+Feel free to customize these descriptions to fit your own style and personality 🚀
 
 
 
